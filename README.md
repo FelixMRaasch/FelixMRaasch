@@ -10,8 +10,7 @@ built a REST backend to serve it, shipped a React Native app to both the
 App Store and Google Play, and debugged the parts that broke along the way.
 That kind of full-pipeline ownership is what I enjoy most.
 
-I'm based in New Zealand and planning a move to the UK in the next year or
-two — open to opportunities on either side of the world.
+I'm based in New Zealand — open to opportunities.
 
 Check out my [Portfolio](https://felixmraasch.github.io) for all of my projects, micro-projects, skills, certificates, and achievements.
 
