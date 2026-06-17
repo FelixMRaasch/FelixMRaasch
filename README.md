@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Felix 👋
 
-<!--
-**FelixMRaasch/FelixMRaasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics graduate with a habit of finding the most direct route
+from a messy real-world problem to a working solution — usually involving
+some combination of data, code, and stubbornness.
 
-Here are some ideas to get you started:
+Most recently I built a full end-to-end mobile app for a New Zealand
+membership scheme: no API existed, so I wrote a scraper to get the data,
+built a REST backend to serve it, shipped a React Native app to both the
+App Store and Google Play, and debugged the parts that broke along the way.
+That kind of full-pipeline ownership is what I enjoy most.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm based in New Zealand and planning a move to the UK in the next year or
+two — open to opportunities on either side of the world.
+
+**Connect:** [LinkedIn](https://linkedin.com/in/felix-raasch)
