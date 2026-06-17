@@ -13,4 +13,6 @@ That kind of full-pipeline ownership is what I enjoy most.
 I'm based in New Zealand and planning a move to the UK in the next year or
 two — open to opportunities on either side of the world.
 
+Check out my [Portfolio](https://felixmraasch.github.io) for all of my projects, micro-projects, skills, certificates, and achievements.
+
 **Connect:** [LinkedIn](https://linkedin.com/in/felix-raasch)
