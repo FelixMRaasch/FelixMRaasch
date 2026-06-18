@@ -14,4 +14,4 @@ I'm based in New Zealand — open to opportunities.
 
 Check out my [Portfolio](https://felixmraasch.github.io) for all of my projects, micro-projects, skills, certificates, and achievements.
 
-**Connect:** [LinkedIn](https://linkedin.com/in/felix-raasch)
+**Connect:** [LinkedIn](https://linkedin.com/in/felixraasch)
